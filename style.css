@@ -1,0 +1,24 @@
+
+
+.weddeing-font{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sacramento', cursive
+
+}
+.bg-button1{
+    background-color: #FEF5FB;
+}
+
+.mt-n1 {
+    margin-top: -0.5rem !important;
+  }
+  .apple{
+      width: 8rem;
+  }
+  .play{
+      width: 8rem;
+  }
